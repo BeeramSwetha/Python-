@@ -49,14 +49,9 @@
   2. How to define a list ?
   3. Accessing list elements using indexing and slicing
   4. Builtin methods
+ 
+ #### Tuple
   
- #### Tuples
-    1. What is tuple 
-    2. How to create a tuple ?
-    3. Accessing tuple elements using indexing and slicing
-   
     
-   #### Tuples
-    1. What is tuple ?
     
   
