@@ -71,7 +71,63 @@
    5. Builtin methods
    6. Differences between sets and dictionaries
 
- ### 
+ ### Conditional Statements
+  1. What are conditional statements ?
+  2. if
+  3. if else
+  4. if elif else
+  5. nested if and if else
+  6. elif ladder
+
+ ### Loops
+  1. What is loop ?
+  2. Why loops are used ?
+  3. while loop
+  4. for loop
+  5. controlflow statements - pass,break, continue
+  
+  ### Comprehension
+   1. List comprehension
+   2. Dictionary comprehension
+  
+  ### Functions
+   1. What is function ?
+   2. Why functions are used ?
+   3. Terminologies used in functions ?
+   4. How to define a function ?
+   5. How to call a function ?
+   6. Functions with/without return values
+   7. Positonal and Keyword arguments
+   8. Modularizing the code
+   9. Scope of variables
+   10. eval()
+   11. zip()
+   12. lambda
+   13. map()
+   14. filter()
+   15. reduce()
+   16. recursor()
+
+ ### File Handling and Exception Handling
+ #### File handling
+  1. What is a file ?
+  2. How to create a file ?
+  3. How to open a file ?
+  4. How to close a file ?
+  5. Writing to a file 
+  6. Appending to a file
+  7. Reading from a file 
+  8. Testing file's existence
+ 
+ #### Exception handling
+  1. What is an exception ?
+  2. Raising exceptions
+  3. try....finally
+  4. Custom exceptions
+  
+  ### Object Oriented Programming ( OOPS )
+  
+   
    
   
     
