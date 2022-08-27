@@ -51,6 +51,10 @@
   4. Builtin methods
  
  #### Tuple
+   1.ASDAASDA
+   2.ASDA
+   3
+ 
   
     
     
