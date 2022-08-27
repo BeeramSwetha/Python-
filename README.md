@@ -33,8 +33,26 @@
   3. Comparision operators (relational)
   4. Logical operators
   5. Identity operators
-  6. Membership operators
 
-### 
+### Collection Data Types
+#### Strings
+  1. What is string ?
+  2. Create a string 
+  3. Accessing a string using indexing and slicing
+  4. Built-in methods
+  5. .format() method
+  6. User input / Dynamical entry
+  7. Type-casting of strings
+  
+ #### Lists
+  1. What is a list ?
+  2. How to define a list ?
+  3. Accessing list elements using indexing and slicing
+  4. Builtin methods
+  
+  #### Tuples
+    1. What is tuple ?
+    2. How to create a tuple ?
+    3. How to access 
 
   
