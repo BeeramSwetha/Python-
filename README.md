@@ -50,9 +50,13 @@
   3. Accessing list elements using indexing and slicing
   4. Builtin methods
   
-  #### Tuples
-    1. What is tuple ?
+ #### Tuples
+    1. What is tuple 
     2. How to create a tuple ?
-    3. How to access 
-
+    3. Accessing tuple elements using indexing and slicing
+   
+    
+   #### Tuples
+    1. What is tuple ?
+    
   
