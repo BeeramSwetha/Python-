@@ -126,8 +126,29 @@
   4. Custom exceptions
   
   ### Object Oriented Programming ( OOPS )
-  
+   Why OOPs is used ?
    
+  #### Classes and Objects
+   1. What is a Class ?
+   2. How to create a class ?
+   3. What are properties and methods of a class ?
+   4. What is an Object ?
+   5. How to create an Object ?
+   6. How to access the properties and methods of a class using an Object ?
+   7. What is Constructor ?
+   8. What are the Types of variables ?
+   9. What are the Types of methods ?
+   10. Access modifiers
+   
+   #### Pillars of OOPs
+   1. Inheritance
+   2. Polymorphism
+   3. Abstraction
+   4. Encapsulation
+  
+    
+    
+        
    
   
     
