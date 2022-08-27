@@ -51,8 +51,31 @@
   4. Builtin methods
  
  #### Tuple
-   1.ASDAASDA
-   2.ASDA
+   1. What is tuple ?
+   2. How to create a tuple ?
+   3. Accessing tuple elements using indexing and slicing
+   4. Differences between lists and tuples
+
+ #### Sets
+   1. What is Set ?
+   2. How to create a set ?
+   3. Builtin methods
+   4. Set operations
+   5. Manipualating and accessing sets
+  
+ #### Dictionary
+   1. What is Dictionary ?
+   2. How to create a dictionary ?
+   3. Adding, Modifying and Retrieving values from a dictionary
+   4. Getting all methods
+   5. Builtin methods
+   6. Differences between sets and dictionaries
+
+ ### 
+   
+  
+    
+  
 
  
   
